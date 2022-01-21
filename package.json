@@ -79,7 +79,7 @@
   },
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
-    "epubjs": "^0.3.85",
+    "epubjs": "^0.3.89",
     "jszip": "^3.2.2"
   }
 }
